@@ -1,0 +1,1 @@
+export { DesignerClothesSection } from "./DesignerClothesSection";
